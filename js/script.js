@@ -1,6 +1,5 @@
 var doCoolStuff = function () {
-	document.getElementById('cool').className
-			  = 'cool red';
+	document.getElementById('cool').className = 'cool red';
 }
 
 
