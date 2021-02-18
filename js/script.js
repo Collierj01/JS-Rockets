@@ -1,5 +1,6 @@
-var sayMyName = function (name) {
-	alert('My name is: ' +name);
+var doCoolStuff = function () {
+	document.getElementById('cool').className
+			  = 'cool red';
 }
 
 
