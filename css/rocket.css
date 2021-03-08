@@ -1,4 +1,7 @@
-.left {
+body{
+	background-color: grey;
+}
+.left{
 	background-color: aquamarine;
 	position: fixed;
 	width: 50%;
