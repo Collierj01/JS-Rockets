@@ -1,3 +1,7 @@
+setTimeout(function () {
+	location.href = 'rocket.html';
+}, 5000);
+
 // this fucntion is for the clicker color change
 var doCoolStuff = function () {
 	var currentClassName = document.getElementById('cool').className;
